@@ -24,6 +24,7 @@ Finite mixture models are frequently seen in real-world data applications.  To i
 
 *Keywords*:  Finite Mixture Model, EM, Mixture Poisson, Mixture exponential, Mixture Rayleigh 
 
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Developed_R_package_entitled_MixPoiRayExp_An_Expectation_Maximization_Algorithm_for_Finite_Mixture_Models.pdf)
 
   
 ---
