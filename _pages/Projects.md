@@ -4,31 +4,23 @@ permalink: /Projects/
 
 Here are the course projects I have undertaken during my PhD studies.
 
-# 1. Green's function solutions for 2D non-homogenous diffusion equations
-- PhD-level Math Course Project
-- Department of Mathematics, University of Wisconsin - Madison
-- Date: 2018-12-14
+# 1. A Review of EM algorithm for Missing Data
+- Course: Missing Data
+- Date: 2020/04 - 2020/05
 
-An analytical expression for a 2D inhomogeneous transient diffusion problem and a linear advection-diffusion problem can be obtained using Green’s function. Based on the homogeneous Dirichlet boundary conditions, the general expression for the Green’s function, including the source terms in 2D Cartesian coordinate, is derived. The reduction of a 2D problem into a 1D problem using the multiplicative property of Green’s function is discussed. Examples involving a point source (using delta function) and a constant source throughout the entire field are solved using Green’s function. The results are verified by comparing them with the numerical solutions. The idea of using Green’s function in solving diffusion equations is applied to recognize the four different structures naturally existing in two-phase flow simulations. An illustrative example is solved to give an idea of the implementation of Green’s function solution.
+Expectation-Maximization algorithm (EM) is a numerical approximation method that has mainly been used to iteratively find the maximum likelihood estimation (MLE) of the parameter (Dempster et al., 1977). The iteration of EM begins with the execution of the Expectation step (E-step), followed by the Maximization step (M-step). The iteration continues until convergence is attained. In missing data problems, the E-step serves to find the integral of the expected full likelihood conditional on observed data under the Missing at Random (MAR) assumption. Naturally, the integral of the E-step cannot be carried out analytically. To resolve this issue, Monte Carlo EM (Wei and Tanner, 1990) and Stochastic Approximation of EM (Delyon et al. 1999), which employ simulation strategies via Markov Chain Monte Carlo methods, are proposed. In this report, we briefly review the histories and the algorithms of EM, MCEM, and SAEM.  
+
+<em>Keywords: Expectation-Maximization Algorithm, MCEM, SAEM <em>
 
 
-*Analytical solutions to point-source problems:* 
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/Projects/images/point_source.png'>
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/Projects/images/image_point_source.png'>
-
-[Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
 
 
 ---
-# 2. Parallelizing advection equation using OpenMP, MPI and CUDA
-- PhD-level High-Performance Computing Course Project
-- Department of Mechanical Engineering, University of Wisconsin - Madison
-- Date: 2017-12-21
+# 2. Developed R package entitled MixPoiRayExp: An Expectation-Maximization Algorithm for Finite Mixture Models
+- Course: Computational Statistics
+- Date: 2020/10 - 2020/12
 
-In this project, the two-phase flow solver developed by our group for solving 2D pure-advection problems is parallelized for performing parallel computation. This solver was developed in the C++ platform and had been well verified with accurate fourth-order accuracy. However, there were two limitations of this solver. One was that the code was developed based on serial computing using one computing node; hence, this solver's speed performance significantly deteriorated when applied to high mesh resolution cases. Besides, the code is not optimized either, which would make the user hard to access. To solve these problems, we would first optimize the serial code by further dividing the code into several files, including a main program and header files that declare all variables and functions. We also try a different optimization choice in the Makefile. Moving from serial optimization is code parallelization. We would attempt the three popular approaches, i.e., OpenMP, MPI, and CUDA, and compare their performance against the original serial code. Based on the scaling analysis, it is found all of the three parallelization approaches could substantially speedup the code, in which CUDA has the largest improvement. In contrast, MPI has a minor enhancement, and OpenMP is ranked between them. The successful implementation of code parallelization could be extended to more realistic 3D cases in the future.
+Finite mixture models are frequently seen in real-world data applications.  To identify appropriate mixture models, we need to isolate the true cluster of the data, tackling the density estimation.  The EM algorithm is commonly used to obtain the parameter estimates of the mixture model.  Most of the published R packages, such as mixture, mclust, and EMCluster, were developed primarily for handling mixture Gaussian cases.  For cases outside the scope of mixture Gaussian, the relevant R packages are quite limited.  To cope with this problem, we develop a new R packageMixPoiRayExpin this project.MixPoiRayExpcan provides the results of the point estimation with its precision in mixture Pois-son, mixture exponential, and mixture Rayleigh.  To help users obtain reliable results, two additional functions, which provide suggestions of the number of mixture components and initialization strategies for the EM algorithm, are also included inMixPoiRayExp.
 
-<p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/Projects/images/CUDA.png' width="49%">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/Projects/images/MPI.png' width="49%">
-</p>
-[Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/HPC_report.pdf)
+<em> Keywords:  Finite Mixture Model, EM, Mixture Poisson, Mixture exponential, Mixture Rayleigh <em>
+
