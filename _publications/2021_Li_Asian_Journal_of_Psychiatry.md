@@ -1,6 +1,13 @@
 ---
 title: "(Journal) Intimate partner violence and Its Relationship with Psychological Distress Among Older Asian Americans: Results from the California Health Interview Survey"
 collection: publications
+excerpt: 'This study aimed to examine the influence of intimate partner violence on psychological distress among 
+a diverse sample of older Asian Americans living in California. Methods: Participants in the 2007–2009 
+California Health and Interview Survey (CHIS) aged fifty years and older and self-reported as Asian Americans were included in  the study. 
+The primary independent variable was the history of  any intimate partner violence (physical or sexual violence) since 18 years of  age. 
+The Kessler Psy-chological Distress Six-item Scale was used to measure the study dependent variable. 
+A composite score (0–24) was created for psychological distress during the past 30 days as well as for the one month in the past 12 months 
+when they were at their worst emotionally. Other covariates, including acculturation and demographic factors, were measured...'
 date: 2021-09-01
 venue: 'Asian Journal of Psychiatry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1876201821002549'
