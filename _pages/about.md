@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Pei-Shan Yen, a Ph.D. candidate majoring in Biostatistics at the University of Illinois at Chicago. I have ~10 years of work experience in applied statistics specializing in data analysis, survey sampling, and marketing strategies. I also have a strong interest in the field of neuroimaging studies and biomedical research. 
+Welcome! I am Pei-Shan Yen, a Ph.D. candidate majoring in Biostatistics at [University of Illinois at Chicago](https://www.uic.edu/). I have ~10 years of work experience in applied statistics specializing in data analysis, survey sampling, and marketing strategies. I also have a strong interest in the field of neuroimaging studies and biomedical research. 
 
 As of now, I have published:
 - One book (which discusses the fundamental knowledge of big data)
@@ -16,3 +16,8 @@ As of now, I have published:
 - Five conference proceedings
 
 Also, I have given two talks pertaining to the application of statistical knowledge to some interesting research topics.
+
+
+<p align="center">
+<img src='https://psyen0824.github.io/psyen.github.io/images/psy_photo.pdf' width="75%">
+</p>
