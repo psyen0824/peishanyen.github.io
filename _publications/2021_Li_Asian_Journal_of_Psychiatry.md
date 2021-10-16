@@ -1,7 +1,7 @@
 ---
 title: "(Journal) Intimate partner violence and Its Relationship with Psychological Distress Among Older Asian Americans: Results from the California Health Interview Survey"
 collection: publications
-date: 2021-09
+date: 2021-09-01
 venue: 'Asian Journal of Psychiatry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1876201821002549'
 citation: 'Chien-Ching Li, Alicia K. Matthews, Pei-Shan Yen, Yi-Fan Chen & XinQi Dong; <i>Aging & Mental Health</i>. Vol 63, 102798, 2021.'
