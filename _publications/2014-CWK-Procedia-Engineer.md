@@ -1,5 +1,5 @@
 ---
-title: "(Journal) The design and optical analysis of compound parabolic collector" 
+title: "(Journal) The design and optical analysis of compound parabolic collector" (https://www.sciencedirect.com/science/article/pii/S1877705814009199) 
 collection: publications
 permalink: /publication/2014-CWK-Procedia-Engineer
 excerpt: 'For various applications of solar thermal energy, the compound parabolic collector (CPC) is frequently used. To overcome the major limits of a traditional CPC, including a rapid increase in height for a larger aperture width and a low concentration ratio, a modified design was proposed in this paper. This research follows the recent study of Jadhav et al., which used only the region below the common focus of parabolas. Through optical analysis, a design modification was achieved by adjusting the vertical position of the receiver...'
