@@ -2,6 +2,7 @@
 title: "(Journal) An international study of 2010 population census methods" 
 collection: publications
 permalink: /publication/2010_Yen_Census
+
 excerpt: 'The objective of the population and housing census is to collect the
 demographic information of a nation or an area which is used for government
 planning and policy making. However, the traditional census in recent years is
@@ -19,8 +20,11 @@ Netherland, and the Nordic countries (Denmark, Finland, Norway, and Sweden).
 However, the new method should be evaluated carefully since Taiwan is
 well-known for having some unique population characteristics....'
 date: 2010-01-01
+
 venue: 'Journal of Population Studies'
+
 paperurl: 'https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10183841-201006-201010180080-201010180080-203-229'
+
 citation: 'Pei-Shan Yen and Jack C.S. Yue; <i> Journal of Population Studies</i>. 2010.'
 ---
 
