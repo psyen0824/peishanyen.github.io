@@ -20,7 +20,7 @@ However, the new method should be evaluated carefully since Taiwan is
 well-known for having some unique population characteristics....'
 date: 2010-01-01
 venue: 'Journal of Population Studies'
-paperurl: 'http://csyue.nccu.edu.tw/ch/2010JPS(Census).pdf'
+paperurl: 'https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10183841-201006-201010180080-201010180080-203-229'
 citation: 'Pei-Shan Yen and Jack C.S. Yue; <i> Journal of Population Studies</i>. 2010.'
 ---
 
