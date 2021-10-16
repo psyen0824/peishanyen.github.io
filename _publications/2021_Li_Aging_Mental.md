@@ -4,7 +4,7 @@ collection: publications
 date: 2021-07-28
 venue: 'Aging & Mental Health'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/13607863.2021.1958146'
-citation: 'Chien-Ching Li, Alicia K. Matthews, Pei-Shan Yen, Yi-Fan Chen & XinQi Dong; <i>Aging & Mental Health</i>. DOI: 10.1080/13607863.2021.1958146, 2021.'
+citation: 'Chien-Ching Li, Alicia K. Matthews, Pei-Shan Yen, Yi-Fan Chen and XinQi Dong; <i>Aging & Mental Health</i>. DOI: 10.1080/13607863.2021.1958146, 2021.'
 
 
 
