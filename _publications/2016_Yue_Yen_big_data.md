@@ -1,10 +1,8 @@
 ---
 title: "(Book) Big data: The data wisdom and knowledge-based economics"
 collection: publications
-date: 2016-01-01
-venue: 'Tsang Hai Publishing, Taiwan'
+date: 2016-09-01
+venue: 'Tsang Hai Publishing'
 paperurl: 'https://www.tsanghai.com.tw/book_detail.php?c=568&no=3659'
 citation: 'Jack C.S. Yue and Pei-Shan Yen; <i>Tsang Hai Publishing</i>. 2016.'
-------
-
-
+---
