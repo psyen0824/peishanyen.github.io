@@ -1,7 +1,7 @@
 ---
 title: "(Journal) The influence of perceived discrimination in healthcare settings on psychological distress among a diverse sample of older Asian Americans"
 collection: publications
-excerpt:'This study utilized a retrospective cross-sectional study design. The dataset was obtained from 2015-2017 California Health Interview Survey (CHIS).
+excerpt: 'This study utilized a retrospective cross-sectional study design. The dataset was obtained from 2015-2017 California Health Interview Survey (CHIS).
 Healthcare discrimination experience (yes, no) was measured using the following question “Over your entire lifetime, how often have you been treated unfairly 
 when getting medical care (never, rarely, sometimes, often)?”. 
 Psychological distress was the study outcome and was measured using the Kessler Psychological Distress Scale. 
