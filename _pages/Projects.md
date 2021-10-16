@@ -12,6 +12,7 @@ Expectation-Maximization algorithm (EM) is a numerical approximation method that
 
 *Keywords*: Expectation-Maximization Algorithm, MCEM, SAEM 
 
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/A_Review_of_EM_algorithm_for_Missing_Data.pdf)
 
 
 ---
@@ -23,6 +24,7 @@ Finite mixture models are frequently seen in real-world data applications.  To i
 
 *Keywords*:  Finite Mixture Model, EM, Mixture Poisson, Mixture exponential, Mixture Rayleigh 
 
+
   
 ---
 # 3. Using Machine Learning Classification Methods and SMOKE Resampling Skills to Predict Disease Risk
@@ -33,6 +35,7 @@ Suicide hotlines is an important prevention tool in reaching people with suicide
 
 *Keywords*: Suicide Risk, Imbalanced Data, Synthetic Sample   
 
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Using_Machine_Learning_Classification_Methods_and_SMOKE_Resampling_Skills_to_Predict_Disease_Risk.pdf)
   
   
 ------ 
@@ -44,7 +47,8 @@ Suicide hotline is a vital prevention tool in reaching people with suicide ideat
 
 *Keywords*: Suicide Risk, Bayesian Ordinal Regression Model, MCMC  
 
-
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Using_Bayesian_Ordinal_Regression_Model_to_Identify_Suicide_Risk_Factors.pdf)
+  
 
 
 # 5. Proportional Odds Models and Partial Proportional Odds Models for Ordinal Data Analysis
@@ -55,6 +59,7 @@ Care must be taken when dealing with ordinal data because ordinal data have both
 
 *Keywords*: Proportional Odds Model, Ordinal Regression, Generalized Logit Model 
 
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Proportional_Odds_Models_and_Partial_Proportional_Odds_Models_for_Ordinal_Data_Analysis.pdf)
 
 
 # 6. Estimation for the Unknown Rrue Concentration of Environmental Analytical Data
@@ -64,6 +69,8 @@ Care must be taken when dealing with ordinal data because ordinal data have both
 We use the statistical model to describe the environmental analytical measurements. To reduce the bias naturally occurring in the observation process, the measurements come from the interlaboratory data which is divided into three different levels of concentration respectively having five replications. The statistical model is constructed using the nonlinear format instead of the traditional linear format, for accounting for the larger variation of the analyte in a higher concentration level. We estimate the model parameters following the work of Bhaumik and Gibbons (2005), which adopts the method of moments that is fast in execution. After obtaining the model parameters, we further apply this model to estimate the unknown true concentration and verify the variation property of the analytic observations.
 
 *Keywords*: Linear Mixed Model
+
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Estimation_for_the_unknown_true_concentration_of_environmental_analytical_data.pdf)
 
 
 
@@ -75,6 +82,9 @@ The traditional environmental analysis commonly accepts the original measurement
 
 *Keywords*: Linear Mixed Model, Gamma Mixed model, Groundwater
 
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Two-Component_Mix_Model_and_Gamma_Mixed_Model_for_Estimating_the_Unknown_True_Concentration_of_Ground_Water.pdf)
+
+
 
 
 # 8. Mixed-Effects Model for Detecting Disrupted Connectivities in Heterogeneous Data
@@ -84,6 +94,9 @@ The traditional environmental analysis commonly accepts the original measurement
 fMRI (functional magnetic resonance imaging) is an essential tool for the detection of aberrant activities in the human brain. In this report, our purpose is to identify significant neural connectivity links which caused major depressive disorder. A mix-effected model gives information of estimated correlation between healthy groups and depression groups. We perform the method of False Discover Rate to deal with multiple comparison issues. Through controlling the q-value level of 0.09, we successfully identify 183 disrupted links for future therapeutic benefit.
 
 *Keywords*: False Discover Rate, Functional Magnetic Resonance Imaging
+
+[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Mixed-Effects Model_for_Detecting_Disrupted_Connectivities_in_Heterogeneous_Data.pdf)
+
 
 
 
