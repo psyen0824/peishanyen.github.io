@@ -4,7 +4,7 @@ collection: publications
 date: 2021-09-01
 venue: 'Asian Journal of Psychiatry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1876201821002549'
-citation: 'Chien-Ching Li, Alicia K. Matthews, Pei-Shan Yen, Yi-Fan Chen & XinQi Dong; <i>Aging & Mental Health</i>. Vol 63, 102798, 2021.'
+citation: 'Chien-Ching Li, Alicia K. Matthews, Pei-Shan Yen, Yi-Fan Chen and XinQi Dong; <i>Aging & Mental Health</i>. Vol 63, 102798, 2021.'
 ---
 
 ### Objective
