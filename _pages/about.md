@@ -18,6 +18,7 @@ As of now, I have published:
 Also, I have given two talks pertaining to the application of statistical knowledge to some interesting research topics.
 
 
+
 <p align="center">
-<img src='https://psyen0824.github.io/peishanyen.github.io/images/psy_photo.pdf' width="75%">
+<img src='https://psyen0824.github.io/peishanyen.github.io/images/psy_photo.jpg' width="75%">
 </p>
