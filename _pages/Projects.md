@@ -24,7 +24,7 @@ Finite mixture models are frequently seen in real-world data applications.  To i
 *Keywords*:  Finite Mixture Model, EM, Mixture Poisson, Mixture exponential, Mixture Rayleigh 
 
   
---
+---
 # 3. Using Machine Learning Classification Methods and SMOKE Resampling Skills to Predict Disease Risk
 - Course: Health Analytics
 - Date: 2019/03 - 2019/12
