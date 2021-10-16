@@ -86,7 +86,7 @@ author:
   location         : "Chicago, IL"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4DTKGkHGMObvHgVkR7SgiLZFb_HNKL7XlMa4VH-dbPgnbm75xf82ZkKFD8Xh813a2ELH98wRLr9teNpjs8i8qlOps1mw&user=C6awSvkAAAAJ"
   email            :  "peishan0824@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
