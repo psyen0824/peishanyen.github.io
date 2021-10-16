@@ -12,7 +12,7 @@ Welcome! I am Pei-Shan Yen, a Ph.D. candidate majoring in Biostatistics at the U
 
 As of now, I have published:
 - One book (which discusses the fundamental knowledge of big data)
-- Six journal papers (including three papers under review)
+- Six journal papers (including two papers under review)
 - Five conference proceedings
 
 Also, I have given two talks pertaining to the application of statistical knowledge to some interesting research topics.
