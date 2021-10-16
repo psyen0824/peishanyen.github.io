@@ -19,5 +19,5 @@ Also, I have given two talks pertaining to the application of statistical knowle
 
 
 <p align="center">
-<img src='https://psyen0824.github.io/psyen.github.io/images/psy_photo.pdf' width="75%">
+<img src='https://psyen0824.github.io/peishanyen.github.io/images/psy_photo.pdf' width="75%">
 </p>
