@@ -26,6 +26,8 @@ venue: 'Journal of Population Studies'
 paperurl: 'https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10183841-201006-201010180080-201010180080-203-229'
 
 citation: 'Pei-Shan Yen and Jack C.S. Yue; <i> Journal of Population Studies</i>. 2010.'
+
+
 ---
 
 The objective of the population and housing census is to collect the
@@ -59,7 +61,9 @@ registered-based population to estimate the De Jure (or permanent resident)
 population in 2010 Taiwan Census. 
 
 
-
-
 [Download paper here](https://psyen0824.github.io/peishanyen.github.io/files/2010_Yen_JPS_Census.pdf)
+
+
+&nbsp;
+&nbsp;
 
