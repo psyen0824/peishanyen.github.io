@@ -31,7 +31,7 @@ Culturally targeted violence prevention efforts and treatment approaches for ind
 underserved segment of older Americans. 
 
 <p align="center">
-<img src='https://psyen0824.github.io/peishanyen.github.io/images/2021-Figure-1.png' width="75%">
+<img src='https://psyen0824.github.io/peishanyen.github.io/images/2021-Figure-1.png' width="90%">
 </p>
 
 &nbsp;
