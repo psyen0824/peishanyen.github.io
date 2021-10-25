@@ -29,7 +29,11 @@ with higher levels of psychological distress for the past month (beta =2.07, SE 
 for the worst month in the past year (beta =1.99, SE =0.68, p <0.05). 
 
 ### Conclusion: 
-Intimate partner violence is  a  significant risk factor for distress among older Asian Americans. 
+Intimate partner violence is a significant risk factor for distress among older Asian Americans. 
 Culturally targeted violence prevention efforts and treatment approaches for individuals impacted by violence are needed in this highly 
 underserved segment of older Americans. 
+
+
+&nbsp;
+&nbsp;
 
