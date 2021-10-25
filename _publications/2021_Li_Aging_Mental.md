@@ -37,3 +37,8 @@ and for the worst month in the past year (beta= 2.099, SE = 0.697, p < 0.05)
 Self-reported discrimination was relatively low in this sample of older Asian American adults. 
 However, consistent with prior research, perceived discrimination in the healthcare setting was associated with increased psychological distress. 
 The findings have implications for improving the quality of health care services received.
+
+
+&nbsp;
+&nbsp;
+
