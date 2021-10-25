@@ -13,3 +13,8 @@ This book serves to address the principle ideas of big data from a statistical p
 <p align="center">
 <img src='https://psyen0824.github.io/peishanyen.github.io/images/big_data.jpeg' width="50%">
 </p>
+
+
+&nbsp;
+&nbsp;
+
