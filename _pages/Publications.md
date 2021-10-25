@@ -30,6 +30,10 @@ Intimate partner violence is a significant risk factor for distress among older 
 Culturally targeted violence prevention efforts and treatment approaches for individuals impacted by violence are needed in this highly 
 underserved segment of older Americans. 
 
+<p align="center">
+<img src='https://psyen0824.github.io/peishanyen.github.io/images/2021-Figure-1.png' width="75%">
+</p>
+
 &nbsp;
 &nbsp;
 
@@ -72,3 +76,36 @@ and for the worst month in the past year (beta= 2.099, SE = 0.697, p < 0.05)
 &nbsp;
 
 ---
+
+# (2016) Big data: The data wisdom and knowledge-based economics
+Jack C.S. Yue and Pei-Shan Yen, "Big data: The data wisdom and knowledge-based economics", <i>Tsang Hai Publishing, Taiwan</i>. 2016.
+
+[Access the book](https://www.tsanghai.com.tw/book_detail.php?c=568&no=3659)
+
+
+
+This book serves to address the principle ideas of big data from a statistical point of view. It begins with illustrating how to correctly define a problem, which is the core of big data analysis. Next, the book details the relation between big data and statistical sampling methods. Following this is the explanations of how to exercise various sampling techniques to collect big data. Then how to analyze big data systematically is addressed in detail. The last two chapters of this book provide some actual big data examples encountered by the authors.
+
+<p align="center">
+<img src='https://psyen0824.github.io/peishanyen.github.io/images/big_data.jpeg' width="50%">
+</p>
+
+
+&nbsp;
+&nbsp;
+
+---
+
+# (2010) An international study of 2010 population census methods
+Pei-Shan Yen and Jack C.S. Yue, "An international study of 2010 population census methods", <i> Journal of Population Studies</i>. Vol 40, pg. 203-229, 2010
+
+[Access the paper](https://psyen0824.github.io/peishanyen.github.io/files/2010_Yen_JPS_Census.pdf)
+
+
+
+This book serves to address the principle ideas of big data from a statistical point of view. It begins with illustrating how to correctly define a problem, which is the core of big data analysis. Next, the book details the relation between big data and statistical sampling methods. Following this is the explanations of how to exercise various sampling techniques to collect big data. Then how to analyze big data systematically is addressed in detail. The last two chapters of this book provide some actual big data examples encountered by the authors.
+
+
+
+&nbsp;
+&nbsp;
