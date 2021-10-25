@@ -15,6 +15,9 @@ Expectation-Maximization algorithm (EM) is a numerical approximation method that
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/A_Review_of_EM_algorithm_for_Missing_Data.pdf)
 
 
+&nbsp;
+&nbsp;
+
 ---
 # 2. Developed R Package "MixPoiRayExp": An Expectation-Maximization Algorithm for Finite Mixture Models
 - Course: Computational Statistics
@@ -26,7 +29,10 @@ Finite mixture models are frequently seen in real-world data applications.  To i
 
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Developed_R_package_entitled_MixPoiRayExp_An_Expectation_Maximization_Algorithm_for_Finite_Mixture_Models.pdf)
 
-  
+
+&nbsp;
+&nbsp;
+
 ---
 # 3. Using Machine Learning Classification Methods and SMOTE Resampling Skills to Predict Disease Risk
 - Course: Health Analytics
@@ -38,7 +44,10 @@ Suicide hotlines is an important prevention tool in reaching people with suicide
 
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Using_Machine_Learning_Classification_Methods_and_SMOKE_Resampling_Skills_to_Predict_Disease_Risk.pdf)
   
-  
+
+&nbsp;
+&nbsp;
+
 ------ 
 # 4. Using Bayesian Ordinal Regression Model to Identify Suicide Risk Factors
 - Course: Bayesian Statistics
@@ -51,6 +60,10 @@ Suicide hotline is a vital prevention tool in reaching people with suicide ideat
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Using_Bayesian_Ordinal_Regression_Model_to_Identify_Suicide_Risk_Factors.pdf)
   
 
+&nbsp;
+&nbsp;
+
+---
 
 # 5. Proportional Odds Models and Partial Proportional Odds Models for Ordinal Data Analysis
 - Course: Generalized Linear Model
@@ -63,6 +76,11 @@ Care must be taken when dealing with ordinal data because ordinal data have both
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Proportional_Odds_Models_and_Partial_Proportional_Odds_Models_for_Ordinal_Data_Analysis.pdf)
 
 
+&nbsp;
+&nbsp;
+
+---
+
 # 6. Estimation for the Unknown Rrue Concentration of Environmental Analytical Data
 - Course: Linear Model
 - Date: 2018/10 - 2018/12
@@ -74,6 +92,10 @@ We use the statistical model to describe the environmental analytical measuremen
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Estimation_for_the_unknown_true_concentration_of_environmental_analytical_data.pdf)
 
 
+&nbsp;
+&nbsp;
+
+---
 
 # 7. Two-Component Mix Model and Gamma Mixed Model for Estimating the Unknown True Concentration of Ground Water 
 - Course: Independent Study 
@@ -86,6 +108,10 @@ The traditional environmental analysis commonly accepts the original measurement
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Two-Component_Mix_Model_and_Gamma_Mixed_Model_for_Estimating_the_Unknown_True_Concentration_of_Ground_Water.pdf)
 
 
+&nbsp;
+&nbsp;
+
+---
 
 
 # 8. Mixed-Effects Model for Detecting Disrupted Connectivities in Heterogeneous Data
