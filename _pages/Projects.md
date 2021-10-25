@@ -4,7 +4,7 @@ permalink: /Projects/
 
 Here are the course projects I have undertaken during my PhD studies.
 
-# 1. A Review of EM algorithm for Missing Data
+# 1. A Review of EM Algorithm for Missing Data
 - Course: Missing Data
 - Date: 2020/04 - 2020/05
 
