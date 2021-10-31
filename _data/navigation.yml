@@ -9,6 +9,10 @@ main:
   - title: "Projects"
     url: /Projects/ 
     
+  - title: "Statistics Post"
+    url: /Statistics_Post/  
+    
+    
 #  - title: "Talks"
 #    url: /talks/    
 
