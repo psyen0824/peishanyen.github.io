@@ -70,9 +70,9 @@ Suicide hotline is a vital prevention tool in reaching people with suicide ideat
 - Course: Generalized Linear Model
 - Date: 2019/04 - 2019/05
  
-Care must be taken when dealing with ordinal data because ordinal data have both qualitative and quantitative characteristics. Before the 1980s, some researchers used the quantitative characteristics to model the ordinal data by performing the regression with assigning the scores to the categories, however, this method may end in the classification of the variable to the adjacent category. Some utilize the qualitative characteristic of the ordinal data and apply the generalized logit model, although using this model would possibly produce unnecessary parameter estimations, making the model too complicated for use. \cite{McCullagh1980} proposes using the proportional odds model to solve this issue. Currently, using the proportional odds model is the most common technique for analyzing ordinal data since the model is simple and easy to interpret.
+Care must be taken when dealing with ordinal data because ordinal data have both qualitative and quantitative characteristics. Some researchers model ordinal data by assigning scores to categorical outcomes and performing regression; however, ordinal regression may misclassify the outcome variable to the adjacent category. Other researchers utilize the qualitative characteristic of the ordinal data and apply the generalized logit model. Although, this model may produce unnecessary parameter estimations, which makes the model too complicated for use. McCullagh (1980) proposes using the proportional odds model to solve these methodological issues. Currently, using the proportional odds model is the most common technique for analyzing ordinal data because the model is simple and easy to interpret.
 
-*Keywords*: Proportional Odds Model, Ordinal Regression, Generalized Logit Model 
+*Keywords*: Ordinal Outcome, Proportional Odds Model, Ordinal Regression, Generalized Logit Model
 
 [Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Proportional_Odds_Models_and_Partial_Proportional_Odds_Models_for_Ordinal_Data_Analysis.pdf)
 
