@@ -98,7 +98,7 @@ We use the statistical model to describe the environmental analytical measuremen
 
 ---
 
-# 7. Two-Component Mix Model and Gamma Mixed Model for Estimating the Unknown True Concentration of Ground Water 
+# 7. Two-Component Mixed Model and Gamma Mixed Model for Estimating the Unknown True Concentration of Ground Water 
 - Course: Independent Study 
 - Date: 2019/01 - 2019/06
 
