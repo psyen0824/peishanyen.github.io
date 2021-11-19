@@ -98,9 +98,10 @@ We use the statistical model to describe the environmental analytical measuremen
 
 ---
 
-# 7. Two-Component Mixed Model and Gamma Mixed Model for Estimating the Unknown True Concentration of Ground Water 
+
+# 7. Two-Component Mix Model and Gamma Mixed Model for Estimating the Unknown True Concentration of Ground Water 
 - Course: Independent Study 
-- Date: 2019/01 - 2019/06
+- Date: 2019/01 - 2019/08
 
 Traditional environmental analysis commonly accepts original measurements as true concentration without considering uncertainty, which may be unrealistic. To address this uncertainty, statistical models can help evaluate environmental analytical measurements. One specific approach considers data characteristics, like heteroscedastic measurement errors and between-laboratories variability, to reach a more accurate estimation of the true concentration of analytical measurements. Kim and Bhaumik (2018) extended the nonlinear two-component mixed model proposed by  Bhaumik and Gibbons (2005) and performed the predictive model to estimate the true concentration of groundwater data. This model obtains the parameter using the iteratively reweighted maximum marginal likelihood (IWMML) proposed by Gibbons and Bhaumik (2001). A multiplicative gamma mixed model serves as a possible alternative to this two-component model, and the parameter of the gamma model can be estimated by the adaptive Gauss-Hermite quadrature (AGQ) method. The lab-specific random effects are further estimated by the Empirical Bayes method. We conducted a statistical simulation study to evaluate and compare the model performance in Kim and Bhaumik’s two-component model and the gamma mixed model. Due to the complexity of the likelihood function of the gamma model, the current R packages—including lme4, GLMMadaptive, R2admb, glmmADMB, and the Zelig—all failed to obtain the parameter estimation. As a result, we performed the work of estimation in SAS using proc NLMIXED. After obtaining the point estimation and interval estimation of the model parameters, we further applied this model to predict the unknown true concentration and verify the variation property of the analytic observations.
 
