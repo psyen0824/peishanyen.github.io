@@ -82,7 +82,7 @@ Care must be taken when dealing with ordinal data because ordinal data have both
 
 ---
 
-# 6. Estimation for the Unknown Rrue Concentration of Environmental Analytical Data
+# 6. Estimation for the Unknown True Concentration of Environmental Analytical Data
 - Course: Linear Model
 - Date: 2018/10 - 2018/12
 
