@@ -115,16 +115,5 @@ Traditional environmental analysis commonly accepts original measurements as tru
 ---
 
 
-# 8. Mixed-Effects Model for Detecting Disrupted Connectivities in Heterogeneous Data
-- Course: Linear Model
-- Date: 2018/10 - 2018/12
-
-fMRI (functional magnetic resonance imaging) is an essential tool for the detection of aberrant activities in the human brain. In this report, our purpose is to identify significant neural connectivity links which caused major depressive disorder. A mix-effected model gives information of estimated correlation between healthy groups and depression groups. We perform the method of False Discover Rate to deal with multiple comparison issues. Through controlling the q-value level of 0.09, we successfully identify 183 disrupted links for future therapeutic benefit.
-
-*Keywords*: False Discover Rate, Functional Magnetic Resonance Imaging
-
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Mixed-Effects Model_for_Detecting_Disrupted_Connectivities_in_Heterogeneous_Data.pdf)
-
-
 
 
