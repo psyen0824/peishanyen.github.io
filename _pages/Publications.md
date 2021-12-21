@@ -31,7 +31,7 @@ Culturally targeted violence prevention efforts and treatment approaches for ind
 underserved segment of older Americans. 
 
 <p align="center">
-<img src='https://psyen0824.github.io/peishanyen.github.io/images/2021-Figure-1.png' width="90%">
+<img src='https://psyen0824.github.io/website/images/2021-Figure-1.png' width="90%">
 </p>
 
 &nbsp;
@@ -87,7 +87,7 @@ Jack C.S. Yue and Pei-Shan Yen, "Big data: The data wisdom and knowledge-based e
 This book serves to address the principle ideas of big data from a statistical point of view. It begins with illustrating how to correctly define a problem, which is the core of big data analysis. Next, the book details the relation between big data and statistical sampling methods. Following this is the explanations of how to exercise various sampling techniques to collect big data. Then how to analyze big data systematically is addressed in detail. The last two chapters of this book provide some actual big data examples encountered by the authors.
 
 <p align="center">
-<img src='https://psyen0824.github.io/peishanyen.github.io/images/big_data.jpeg' width="50%">
+<img src='https://psyen0824.github.io/website/images/big_data.jpeg' width="50%">
 </p>
 
 
@@ -99,7 +99,7 @@ This book serves to address the principle ideas of big data from a statistical p
 # (2014) The design and optical analysis of compound parabolic collector
 Chia-Wei Kuo, Pei-Shan Yen, Wen-Chey Chang, and Keh-Chin Chan, "The design and optical analysis of compound parabolic collector", <i> Procedia Engineering</i>. Vol. 79, pg. 258-262, 2014.'
 
-[Access the paper](https://psyen0824.github.io/peishanyen.github.io/files/2014-CWK-Procedia-Engineer.pdf)
+[Access the paper](https://psyen0824.github.io/website/files/2014-CWK-Procedia-Engineer.pdf)
 
 For various applications of solar thermal energy, the compound parabolic collector (CPC) is frequently used. To overcome the major limits of a traditional CPC, including a rapid increase in height for a larger aperture width and a low concentration ratio, a modified design was proposed in this paper. This research follows the recent study of Jadhav et al., which used only the region below the common focus of parabolas. Through optical analysis, a design modification was achieved by adjusting the vertical position of the receiver. From the results, setting the height of the receiver to 0.46 times the aperture width was found to permit a greater collection range of incident rays. In addition, a better method for evaluating the performance of the CPC was proposed using an intercept factor to account for the total reflection phenomenon caused by the receiver. By applying the approach to different cases of focal length, it was shown that the concentration ratio was not strongly affected by an increasing focal length owing to the low correlation between the concentration ratio and focal length.
 
@@ -113,7 +113,7 @@ For various applications of solar thermal energy, the compound parabolic collect
 # (2010) An international study of 2010 population census methods
 Pei-Shan Yen and Jack C.S. Yue, "An international study of 2010 population census methods", <i> Journal of Population Studies</i>. Vol 40, pg. 203-229, 2010
 
-[Access the paper](https://psyen0824.github.io/peishanyen.github.io/files/2010_Yen_JPS_Census.pdf)
+[Access the paper](https://psyen0824.github.io/website/files/2010_Yen_JPS_Census.pdf)
 
 
 
