@@ -61,7 +61,7 @@ registered-based population to estimate the De Jure (or permanent resident)
 population in 2010 Taiwan Census. 
 
 
-[Download paper here](https://psyen0824.github.io/peishanyen.github.io/files/2010_Yen_JPS_Census.pdf)
+[Download paper here](https://psyen0824.github.io/website/files/2010_Yen_JPS_Census.pdf)
 
 
 &nbsp;
