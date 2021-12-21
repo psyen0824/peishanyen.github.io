@@ -12,7 +12,7 @@ Expectation-Maximization algorithm (EM) is a numerical approximation method used
 
 *Keywords*: Expectation-Maximization algorithm, Markov Chain Expectation-Maximization, Stochastic Approximation of Expectation-Maximization
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/A_Review_of_EM_algorithm_for_Missing_Data.pdf)
+[Download report here](https://psyen0824.github.io/website/files/A_Review_of_EM_algorithm_for_Missing_Data.pdf)
 
 
 &nbsp;
@@ -28,7 +28,8 @@ Finite mixture models are frequently seen in real-world data applications. To ov
 
 *Keywords*:  Finite Mixture Model, EM, Mixture Poisson, Mixture Exponential, Mixture Rayleigh 
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Developed_R_package_entitled_MixPoiRayExp_An_Expectation_Maximization_Algorithm_for_Finite_Mixture_Models.pdf)
+[Download report here]
+(https://psyen0824.github.io/website/files/Developed_R_package_entitled_MixPoiRayExp_An_Expectation_Maximization_Algorithm_for_Finite_Mixture_Models.pdf)
 
 
 &nbsp;
@@ -43,7 +44,8 @@ Suicide hotlines are an essential prevention tool in reaching people with suicid
 
 *Keywords*: Suicide Hotline, Suicide Risk, Imbalanced Data, Synthetic Sample  
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Using_Machine_Learning_Classification_Methods_and_SMOKE_Resampling_Skills_to_Predict_Disease_Risk.pdf)
+[Download report here]
+(https://psyen0824.github.io/website/files/Using_Machine_Learning_Classification_Methods_and_SMOKE_Resampling_Skills_to_Predict_Disease_Risk.pdf)
   
 
 &nbsp;
@@ -58,7 +60,8 @@ Suicide hotline is a vital prevention tool in reaching people with suicide ideat
 
 *Keywords*: Suicide Risk, Bayesian Ordinal Regression Model, MCMC  
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Using_Bayesian_Ordinal_Regression_Model_to_Identify_Suicide_Risk_Factors.pdf)
+[Download report here]
+(https://psyen0824.github.io/website/files/Using_Bayesian_Ordinal_Regression_Model_to_Identify_Suicide_Risk_Factors.pdf)
   
 
 &nbsp;
@@ -74,7 +77,8 @@ Care must be taken when dealing with ordinal data because ordinal data have both
 
 *Keywords*: Ordinal Outcome, Proportional Odds Model, Ordinal Regression, Generalized Logit Model
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Proportional_Odds_Models_and_Partial_Proportional_Odds_Models_for_Ordinal_Data_Analysis.pdf)
+[Download report here]
+(https://psyen0824.github.io/website/files/Proportional_Odds_Models_and_Partial_Proportional_Odds_Models_for_Ordinal_Data_Analysis.pdf)
 
 
 &nbsp;
@@ -90,7 +94,8 @@ We use the statistical model to describe the environmental analytical measuremen
 
 *Keywords*: Linear Mixed Model
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Estimation_for_the_unknown_true_concentration_of_environmental_analytical_data.pdf)
+[Download report here]
+(https://psyen0824.github.io/website/files/Estimation_for_the_unknown_true_concentration_of_environmental_analytical_data.pdf)
 
 
 &nbsp;
@@ -107,7 +112,8 @@ Traditional environmental analysis commonly accepts original measurements as tru
 
 *Keywords*: Two-Component Mixed Model, Gamma Mixed Model,  Uncertainty, Groundwater
 
-[Download report here](https://psyen0824.github.io/peishanyen.github.io/files/Two-Component_Mix_Model_and_Gamma_Mixed_Model_for_Estimating_the_Unknown_True_Concentration_of_Ground_Water.pdf)
+[Download report here]
+(https://psyen0824.github.io/website/files/Two-Component_Mix_Model_and_Gamma_Mixed_Model_for_Estimating_the_Unknown_True_Concentration_of_Ground_Water.pdf)
 
 
 &nbsp;
